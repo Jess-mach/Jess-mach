@@ -19,13 +19,3 @@
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessica-machado-4aa149249)
-
-www.linkedin.com/in/jessica-machado-4aa149249
-
-<p>
-    <a href="https://www.linkedin.com/in/wagnercostta/">
-    <code> <img alt="LinkedIn" width="32" src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></code>
-    </a>
-<a href="mailto:wg.o.costa@gmail.com">
-  <code><img alt="My e-mail" width="32" src="https://img.icons8.com/color/48/000000/gmail--v1.png" /></code>
-</a>
