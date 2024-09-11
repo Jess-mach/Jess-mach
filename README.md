@@ -18,10 +18,14 @@
 ![Suas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Jess-mach&show_icons=true)
 
 ## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jessica-machado-4aa149249)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessica-machado-4aa149249)
 
+www.linkedin.com/in/jessica-machado-4aa149249
 
-
-<a href="www.linkedin.com/in/jessica-machado-4aa149249">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />             
+<p>
+    <a href="https://www.linkedin.com/in/wagnercostta/">
+    <code> <img alt="LinkedIn" width="32" src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></code>
+    </a>
+<a href="mailto:wg.o.costa@gmail.com">
+  <code><img alt="My e-mail" width="32" src="https://img.icons8.com/color/48/000000/gmail--v1.png" /></code>
 </a>
