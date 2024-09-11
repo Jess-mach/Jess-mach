@@ -15,7 +15,7 @@
 - [desafios-python/ cursoPython /EX 46.py]
 
 ## Estatísticas do GitHub
-![Suas estatísticas do GitHub](https://github.com/Jess-mach)
+![Suas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Jess-mach&show_icons=true)
 
 ## Conecte-se comigo
-![LinkedIn](www.linkedin.com/in/jessica-machado-4aa149249)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jessica-machado-4aa149249)
