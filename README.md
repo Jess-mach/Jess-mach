@@ -2,7 +2,7 @@
 
 ## Sobre mim
 - 🔭 Atualmente estou trabalhando em pequenos exercicios Python
-- 🌱 Estou aprendendo MySQL
+- 🌱 Estou aprendendo MySQL e JavaScrip 
 - 👯 Procuro colaborar em pequenos projetos iniciais 
 - 🤔 Estou procurando ajuda com Banco de Dados
 - ⚡ Fato divertido: Sou mamãe de Pet(Maria Cecilia e Alfredo)
