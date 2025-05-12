@@ -1,4 +1,4 @@
-# Olá, eu sou Jess 👋
+# Olá, eu sou Jessica Machado 👋
 
 ## Sobre mim
 - 🔭 Atualmente estou trabalhando em pequenos exercicios Python
