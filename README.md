@@ -1,7 +1,7 @@
 # Olá, eu sou Jessica Machado 👋
 
 ## Sobre mim
-- 🔭 Atualmente estou trabalhando em pequenos exercicios Python
+- 🔭 Atualmente estou trabalhando em pequenos exercicios Python e Java
 - 🌱 Estou aprendendo MySQL e JavaScrip 
 - 👯 Procuro colaborar em pequenos projetos iniciais 
 - 🤔 Estou procurando ajuda com Banco de Dados
