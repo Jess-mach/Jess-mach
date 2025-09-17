@@ -75,3 +75,13 @@ MIT — use à vontade e me marque no LinkedIn 😊
 
 ---
 <sub>feito com carinho por Jessica • 2025-08-28</sub>
+
+[⬅️ Voltar ao README principal](README.md)
+
+**Você está em: Financial Transactions API**  
+[Ir para: Orders API](README-orders-api.md) | 
+[Tour Booking Microservices](README-tour-microservices.md) | 
+[Forum Hub API](README-forum-hub.md) | 
+[VollMed API](README-vollmed-api.md)
+
+---
