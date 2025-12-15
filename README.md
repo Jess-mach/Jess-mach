@@ -47,7 +47,6 @@ public class Jessica extends Developer {
 - 📚 **Oracle ONE Graduate** com mais de 200 horas de desenvolvimento prático
 - 🌱 **Evoluindo para Full-Stack** com React + Next.js
 - 🐾 **Mãe orgulhosa** da Maria Cecília 🐶 e do Alfredo 🐶
-- 💼 **Disponível para oportunidades** | São Paulo • Presencial • Remoto • Híbrido
 
 ---
 
@@ -222,3 +221,4 @@ Spring Actuator • Structured Logging • Health Checks
   
   *Transformando café em código desde 2024* ☕→💻
 </div>
+
